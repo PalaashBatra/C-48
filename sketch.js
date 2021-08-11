@@ -13,10 +13,10 @@ var cars, car1, car2, car3, car4;
 var track, car1_img, car2_img, car3_img, car4_img;
 var rockGroup
 function preload(){
-  car1_img = loadImage("../img/car1.png");
-  car2_img = loadImage("../img/car2.png");
-  track = loadImage("../img/track.jpg")
-  rockimg = loadImage("../img/rock.png")
+  car1_img = loadImage("img/car1.png");
+  car2_img = loadImage("img/car2.png");
+  track = loadImage("img/track.jpg")
+  rockimg = loadImage("img/rock.png")
 }
 
 function setup(){
